@@ -13,7 +13,7 @@ Tarea_N1.py
 
 # Task 2
 
-![]() 
+[Task2 PDF](https://github.com/M-O-R-P-H-E-U-S/Numerical-Methods---Problems-Resolved/blob/main/Soluci%C3%B3n%20de%20ecuaciones%20no%20lineales.pdf) 
 
 
 ```
