@@ -4,7 +4,7 @@
 
 
 
-![Task1](https://github.com/M-O-R-P-H-E-U-S/Numerical-Methods---Problems-Resolved/blob/main/Introduccion.pdf) 
+![Task1](Introduccion.pdf) 
 
 
 ```
